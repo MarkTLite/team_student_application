@@ -1,10 +1,17 @@
-# tusrmis_web
+# Online University Student Application
+#### This is a fully functional University Online system module to digitize the usual and still existing hard copy processes of student applications.
+https://tusrmis.web.app/
 
-A new Flutter project.
+## Achieved: 
+  User Creation and Authentication,<br/>
+  Complex Application Form with validation,<br/>
+  Application fee,<br/>
+  Uploading attachments to the application,<br/>
+  Status monitoring<br/>
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
